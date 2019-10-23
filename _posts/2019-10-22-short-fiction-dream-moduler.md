@@ -2,7 +2,7 @@
 layout: post
 title:  "ড্রিম মডুলার"
 date:   2019-10-22 23:30:00 +0600
-categories: jekyll update
+categories: stories
 comments: true
 ---
 
